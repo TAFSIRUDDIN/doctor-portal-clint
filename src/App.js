@@ -9,6 +9,7 @@ import Home from './components/Home/Home/Home';
 import Appointment from './components/Appointment/Appointment/Appointment';
 import Login from './components/Login/Login/Login';
 import Dashboard from './components/Dashboard/Dashboard/Dashboard';
+import AddDoctor from './components/AddDoctor/AddDoctor';
 export const UserContext = createContext();
 
 function App() {
@@ -23,8 +24,11 @@ function App() {
         <Route path="/appointment">
           <Appointment/>
         </Route>
-        <Route path="/appointmentsByDate">
+        <Route path="/dashboard">
           <Dashboard/>
+        </Route>
+        <Route path="/addDoctor">
+          <AddDoctor/>
         </Route>
         <Route path="/login">
             <Login></Login>
