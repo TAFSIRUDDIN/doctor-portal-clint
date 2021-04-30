@@ -1,69 +1,61 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Getting Started with Tafsir Uddin
 
-## Available Scripts
+This project was created by [Tafsir Uddin](https://www.facebook.com/profile.php?id=100008669771700).
 
-In the project directory, you can run:
+My website name is
+# doctor portal
 
-### `npm start`
+Runs the website in the live :
+### `Route is not work properly while I deploying in firebase`
+Open [https://doctor-portal-project-87623.web.app/](https://doctor-portal-project-87623.web.app/) to view it in the browser.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Server site code link for this site
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+Open [.https://github.com/TAFSIRUDDIN/doctors-server-site](.https://github.com/TAFSIRUDDIN/doctors-server-site) to view the code.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### FEATURES
 
-### `npm run build`
+Here you booked a service. You can see your service list. You can store your service in mongodb database. You can post new Service. you can also delete any service.
+User can give feedback .And It is visible in UI home page. 
+Hare you update users booking state.
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+1. This is the basic MERN website. Admin can add any doctor and see appointment.
+2. A patient can give an appointment. Admin can see all appointment date by date.
+3. This is developed by NodeJs, React, React-router, HTML/CSS, Bootstrap, and React-bootstrap.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### NOTE
+You can not visit the Cheakout and order page without Sign in or Login.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### `WE USE THOSE SITE TO DEVELOPE THIS SITE `
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+### React
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Site Link: [https://reactjs.org/](https://reactjs.org/)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### React Bootstrap
 
-### Code Splitting
+Site Link: [https://react-bootstrap.github.io/](https://react-bootstrap.github.io/)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+### REACT ROUTER
 
-### Analyzing the Bundle Size
+Site Link: [https://reactrouter.com/](https://reactrouter.com/)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+### FIREBASE
 
-### Making a Progressive Web App
+Site Link: [https://firebase.google.com/](https://firebase.google.com/)
+### fontawesome
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+Site Link: [https://fontawesome.com/](https://fontawesome.com/)
+### mongodb
 
-### Advanced Configuration
+Site Link: [https://www.mongodb.com/](https://www.mongodb.com/)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
 
-### Deployment
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 # doctor-portal-clint
