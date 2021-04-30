@@ -11,7 +11,7 @@ Open [https://doctor-portal-project-87623.web.app/](https://doctor-portal-projec
 
 ### Server site code link for this site
 
-Open [.https://github.com/TAFSIRUDDIN/doctors-server-site](.https://github.com/TAFSIRUDDIN/doctors-server-site) to view the code.
+Open [https://github.com/TAFSIRUDDIN/doctors-server-site](https://github.com/TAFSIRUDDIN/doctors-server-site) to view the code.
 
 
 ### FEATURES
